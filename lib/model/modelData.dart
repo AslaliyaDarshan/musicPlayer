@@ -1,5 +1,5 @@
 class ModelData {
-  String? title, images, song;
+  String? title, subtitle, images, song;
 
-  ModelData({this.title, this.images, this.song});
+  ModelData({this.title, this.subtitle, this.images, this.song});
 }
